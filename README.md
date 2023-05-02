@@ -1,7 +1,7 @@
 # Jenkins-Setup
 In this I have written all the commands to set-up jenkins server in amazon linux machine
 
-
+  sudo -i 
 
   sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
   sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io-2023.key
